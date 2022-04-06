@@ -1,0 +1,39 @@
+2018- 2019
+•	I was given session on xpaths to team and changed few existing scripts xpaths and helped the team in running automation suite. 
+•	I was coded complex module in regression like CPQ Orders for single and Multi-year, based in this CPQ Quote scripts were prepared. 
+•	After I came into team, Automation scripts were completed soon.
+•	I have implemented his automation knowledge in scripting effectively like adding Java scripts for clicking, using iframes.
+•	I was given session on selenium to Onshore as apart of CI/CD session (DevOps).
+•	Proactively, taking SR/tickets in salesforce and completed within time.
+•	Participated actively in Product master Scrum calls and effectively writing User Stories.
+•	Helped new team joinee with all access related to project and organization.
+•	Helping the team on automation issues at any block example, xpath issues, scripting issues.
+•	Successfully applied and implemented Bright idea for 2018.
+•	Completed mandatory trainings in learn source related to Organization.
+•	Time to time filled time sheet without any reminder/escalations.
+
+1.Supporting teammate for backups(Aabeda-phase4) about issues with Onshore
+2.4/25 release, Adhoc task Analytics US taken and moved to completion.
+3.5/9 release re doing regression on 5/11. Extended my hours to make completion.
+4.Doing LEAD work whenever he(Chakri) is on PTO,like driving status calls and manager given tasks.
+5.Automation tasks completed on ATTD framework with in time. Proved two times.
+6.Proactively worked for document creation in team like MDM data search process, Prod offline validations, QA test harness process, TDM process.
+7.At sprint-5,managed my works(Supported Shivangi-she went for Engagement leave, LEAD backup work, Saturn scrum work)
+8.Initiated measuring responses time for Application(Performance )
+9.Actively involved in RCA Production defects calls under Sharad level and providing inputs form QA perspective with Imran.
+10.Created TDM (Test Data management) sheet for team and demo given to Onshore.
+11.Always available on any time including weekends for project issues and urgent needs.
+12.Particpating in deployment activities for each release and stood as responsible QA.
+13.Defect leaked percentage is pretty less for Saturn.
+14.Extended my support and balanced my time for newly added MARS project (08/15).
+15.Weekly charging my PPM time sheet, without any escalations.
+
+
+
+
+
+
+
+
+
+  
